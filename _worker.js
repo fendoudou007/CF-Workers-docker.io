@@ -383,7 +383,7 @@ async function searchInterface() {
 					</svg>
 				</button>
 			</div>
-			//<p class="tips">基于 Cloudflare Workers / Pages 构建，利用全球边缘网络实现毫秒级响应。</p>
+			<p class="tips">利用全球边缘网络实现毫秒级响应。</p>
 		</div>
 		<script>
 		function performSearch() {
